@@ -6,7 +6,7 @@ const countdown = document.getElementById('countdown');
 
 const currentYear = new Date().getFullYear();
 
-const closingDate= new Date(`March 26 ${currentYear} 11:59:00`);
+const closingDate= new Date(`March 26 ${currentYear} 23:59:00`);
 
 
 // Update countdown time
